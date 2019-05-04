@@ -14,7 +14,9 @@
 
 You have to predict the column “MaterialType” and please submit in the format given in the “sample_submissions.csv” file. Also, note evaluation criteria will be the weighted f1-score.
 
-**Data** can be found here: https://bit.ly/2UgBSt2 
+**Data** can be found here: https://bit.ly/2UgBSt2
+
+Download **GloVe Embeddings** from [here](https://www.kaggle.com/thanakomsn/glove6b300dtxt#glove.6B.300d.txt). Put the glove embeddings text file in ./glove.6B folder.
 
 ![alt text](https://i.ibb.co/YQJbmTc/Screenshot-from-2019-04-14-05-30-16.png)
 
